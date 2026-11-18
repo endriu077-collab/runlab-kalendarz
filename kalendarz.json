@@ -1,0 +1,272 @@
+{
+ "v": 1,
+ "at": "2026-11-18",
+ "note": "Kalendarz startów RUN LAB. st: ok = data od organizatora, zap = zapowiedź, ~ = termin orientacyjny.",
+ "races": [
+  {
+   "d": "2026-11-28",
+   "n": "Maraton Komandosa",
+   "c": "Lubliniec",
+   "k": 42.195,
+   "st": "zap",
+   "src": "treningbiegacza.pl",
+   "x": "w butach wojskowych, z plecakiem"
+  },
+  {
+   "d": "2026-12-06",
+   "n": "Bieg Mikołajów",
+   "c": "Toruń",
+   "k": 21.0975,
+   "st": "zap",
+   "src": "ahotu.com",
+   "x": "w stroju Mikołaja; także krótsze dystanse"
+  },
+  {
+   "d": "2027-01-01",
+   "n": "Śląski Maraton Noworoczny",
+   "c": "Chorzów",
+   "k": 42.195,
+   "st": "zap",
+   "src": "running.life"
+  },
+  {
+   "d": "2027-02-14",
+   "n": "Półmaraton Komandosa",
+   "c": "Warszawa",
+   "k": 21.0975,
+   "st": "zap",
+   "src": "treningbiegacza.pl",
+   "x": "formuła wojskowa"
+  },
+  {
+   "d": "2027-03-14",
+   "n": "Półmaraton Warszawski",
+   "c": "Warszawa",
+   "k": 21.0975,
+   "st": "ok",
+   "src": "potwierdzone przez biegacza (11.2026)",
+   "ref": "whm27",
+   "x": "start: Most Poniatowskiego"
+  },
+  {
+   "d": "2027-03-28",
+   "n": "Półmaraton Ślężański",
+   "c": "Sobótka",
+   "k": 21.0975,
+   "st": "zap",
+   "src": "treningbiegacza.pl",
+   "x": "trasa z podbiegami"
+  },
+  {
+   "d": "2027-04-11",
+   "n": "DOZ Maraton Łódź",
+   "c": "Łódź",
+   "k": 42.195,
+   "st": "ok",
+   "src": "finishers.com („data potwierdzona”)",
+   "ref": "lodz27",
+   "x": "impreza 10–11.04, start przy Atlas Arenie; też 10 km"
+  },
+  {
+   "d": "2027-04-11",
+   "n": "PKO Poznań Półmaraton",
+   "c": "Poznań",
+   "k": 21.0975,
+   "st": "ok",
+   "src": "biegowe.pl (11.2026): przeniesiony z 18.04 przez mecz Lech–Legia",
+   "x": "ten sam dzień co Maraton Łódź"
+  },
+  {
+   "d": "2027-04-18",
+   "n": "Cracovia Maraton",
+   "c": "Kraków",
+   "k": 42.195,
+   "st": "ok",
+   "src": "cracoviamaraton.pl",
+   "x": "start: Rynek Główny"
+  },
+  {
+   "d": "2027-04-24",
+   "n": "PKO Gdynia Półmaraton",
+   "c": "Gdynia",
+   "k": 21.0975,
+   "st": "zap",
+   "src": "trojmiasto.pl, ahotu.com",
+   "x": "sobota, Skwer Kościuszki"
+  },
+  {
+   "d": "2027-04-25",
+   "n": "Gdańsk Maraton",
+   "c": "Gdańsk",
+   "k": 42.195,
+   "st": "ok",
+   "src": "finishers.com, forcenews.pl",
+   "x": "impreza 24–25.04"
+  },
+  {
+   "d": "2027-05-09",
+   "n": "Wings for Life World Run",
+   "c": "Poznań",
+   "k": 0,
+   "st": "~",
+   "src": "hdsports.org, finishers.com („wczesny maj”)",
+   "x": "bieg do momentu, aż dogoni Cię samochód; dystans zmienny"
+  },
+  {
+   "d": "2027-05-09",
+   "n": "PKO Białystok Półmaraton",
+   "c": "Białystok",
+   "k": 21.0975,
+   "st": "~",
+   "src": "hdsports.org (9.05), ahotu.com (8.05)"
+  },
+  {
+   "d": "2027-05-22",
+   "n": "Bieg Ulicą Piotrkowską",
+   "c": "Łódź",
+   "k": 10,
+   "st": "zap",
+   "src": "forcenews.pl",
+   "x": "sobota wieczorem"
+  },
+  {
+   "d": "2027-05-16",
+   "n": "Maraton Zagłębia",
+   "c": "Sosnowiec",
+   "k": 42.195,
+   "st": "~",
+   "src": "finishers.com („maj 2027”)"
+  },
+  {
+   "d": "2027-06-06",
+   "n": "PKO Wrocław Maraton",
+   "c": "Wrocław",
+   "k": 42.195,
+   "st": "~",
+   "src": "finishers.com („wczesny czerwiec 2027”)"
+  },
+  {
+   "d": "2027-06-12",
+   "n": "Tarczyński Nocny Wrocław Półmaraton",
+   "c": "Wrocław",
+   "k": 21.0975,
+   "st": "ok",
+   "src": "wroclaw.pl, kochamwroclaw.pl",
+   "x": "sobota wieczorem; zapisy od 1.01.2027 12:00 (nie o północy)"
+  },
+  {
+   "d": "2027-06-19",
+   "n": "Nocny Maraton nad Kanałem",
+   "c": "Bydgoszcz",
+   "k": 42.195,
+   "st": "~",
+   "src": "finishers.com („czerwiec 2027”)"
+  },
+  {
+   "d": "2027-07-10",
+   "n": "Nocny Maraton Szczeciński",
+   "c": "Szczecin",
+   "k": 42.195,
+   "st": "~",
+   "src": "finishers.com („lipiec 2027”)"
+  },
+  {
+   "d": "2027-09-04",
+   "n": "Półmaraton Piła",
+   "c": "Piła",
+   "k": 21.0975,
+   "st": "~",
+   "src": "hdsports.org",
+   "x": "Mistrzostwa Polski w półmaratonie (tradycyjnie)"
+  },
+  {
+   "d": "2027-09-04",
+   "n": "Nocny Półmaraton Praski",
+   "c": "Warszawa",
+   "k": 21.0975,
+   "st": "~",
+   "src": "finishers.com („wczesny wrzesień 2027”)",
+   "x": "sobota wieczorem"
+  },
+  {
+   "d": "2027-09-26",
+   "n": "49. Maraton Warszawski",
+   "c": "Warszawa",
+   "k": 42.195,
+   "t": "09:00",
+   "st": "ok",
+   "src": "maratonwarszawski.com (regulamin), biegowe.pl",
+   "x": "zapisy otwarte"
+  },
+  {
+   "d": "2027-10-03",
+   "n": "PKO Silesia Marathon",
+   "c": "Katowice",
+   "k": 42.195,
+   "st": "~",
+   "src": "hdsports.org",
+   "x": "też półmaraton i 50 km"
+  },
+  {
+   "d": "2027-10-03",
+   "n": "Półmaraton Włocławek",
+   "c": "Włocławek",
+   "k": 21.0975,
+   "st": "~",
+   "src": "hdsports.org"
+  },
+  {
+   "d": "2027-10-03",
+   "n": "Biegnij Warszawo",
+   "c": "Warszawa",
+   "k": 10,
+   "st": "~",
+   "src": "forcenews.pl (podaje 2.10)"
+  },
+  {
+   "d": "2027-10-24",
+   "n": "26. Poznań Maraton",
+   "c": "Poznań",
+   "k": 42.195,
+   "st": "ok",
+   "src": "biegowe.pl, maratonczyk.pl (10.2026)",
+   "x": "3 tygodnie później niż w 2026 (4.10)"
+  },
+  {
+   "d": "2027-10-10",
+   "n": "Cracovia Półmaraton Królewski",
+   "c": "Kraków",
+   "k": 21.0975,
+   "st": "~",
+   "src": "finishers.com, hdsports.org",
+   "x": "w 2026 był 11.10"
+  },
+  {
+   "d": "2027-10-17",
+   "n": "Maraton Dębno",
+   "c": "Dębno",
+   "k": 42.195,
+   "st": "~",
+   "src": "hdsports.org",
+   "x": "najstarszy maraton w Polsce; w 2026 był 18.10"
+  },
+  {
+   "d": "2027-10-17",
+   "n": "Toruń Maraton",
+   "c": "Toruń",
+   "k": 42.195,
+   "st": "~",
+   "src": "termin wg poprzednich edycji (2026: 18.10)"
+  },
+  {
+   "d": "2027-11-11",
+   "n": "Bieg Niepodległości",
+   "c": "Warszawa",
+   "k": 10,
+   "t": "11:11",
+   "st": "zap",
+   "src": "stały termin 11 listopada"
+  }
+ ],
+ "drop": []
+}
